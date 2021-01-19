@@ -26,6 +26,9 @@ const config: Configuration = {
         contentBase: path.join(__dirname, 'static'),
         open: true,
         port: 8000
+    },
+    performance: {
+        hints: false
     }
 };
 
