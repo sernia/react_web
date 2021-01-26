@@ -132,8 +132,8 @@ class App extends React.Component {
                 <Route exact path="/note" component={Note} />
               </Switch>
               <footer className="c-footer">
-                <div><a href="https://coreui.io">CoreUI</a> © 2020 creativeLabs.</div>
-                <div className="ml-auto">Powered by&nbsp;<a href="https://coreui.io/">CoreUI</a></div>
+                <div> 2021 sernia</div>
+                <div className="ml-auto">sernia</div>
               </footer>
             </div>
           </div>
