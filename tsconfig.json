@@ -6,9 +6,13 @@
         "strict": true,
         "module": "commonJs",
         "jsx": "react",
-        "lib": ["ES5", "ES6", "DOM"],
+        "lib": [
+            "ES5",
+            "ES6",
+            "DOM"
+        ],
         "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
-        "isolatedModules": true,
+        "isolatedModules": true
     }
 }

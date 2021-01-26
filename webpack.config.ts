@@ -25,7 +25,7 @@ const config: Configuration = {
     devServer: {
         contentBase: path.join(__dirname, 'static'),
         open: true,
-        port: 8000
+        port: 9000
     },
     performance: {
         hints: false
