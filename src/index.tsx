@@ -22,10 +22,10 @@ class App extends React.Component {
         <Router>
           <div className="c-sidebar c-sidebar-dark c-sidebar-fixed c-sidebar-lg-show" id="sidebar">
             <div className="c-sidebar-brand d-lg-down-none">
-              <svg className="c-sidebar-brand-full" width="118" height="46" >
+              <svg className="c-sidebar-brand-full" width="118" height="46">
                 <use href="assets/brand/coreui.svg#full"></use>
               </svg>
-              <svg className="c-sidebar-brand-minimized" width="46" height="46" >
+              <svg className="c-sidebar-brand-minimized" width="46" height="46">
                 <use href="assets/brand/coreui.svg#signet"></use>
               </svg>
             </div>
@@ -55,7 +55,6 @@ class App extends React.Component {
                 <li className="c-header-nav-item px-3"><a className="c-header-nav-link" href="#">Users</a></li>
                 <li className="c-header-nav-item px-3"><a className="c-header-nav-link" href="#">Settings</a></li>
               </ul>
-
 
               <ul className="c-header-nav ml-auto mr-4">
                 <li className="c-header-nav-item d-md-down-none mx-2"><a className="c-header-nav-link" href="#">

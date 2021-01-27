@@ -1,0 +1,5 @@
+{
+  "routes": "mock/json-server/routes.json",
+  "watch": true
+}
+

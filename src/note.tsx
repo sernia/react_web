@@ -12,6 +12,7 @@ class Note extends React.Component {
                   <div className="card">
                     <div className="card-header">Traffic &amp; Sales</div>
                     <div className="card-body">
+
                       <table className="table table-responsive-sm table-hover table-outline mb-0">
                         <thead className="thead-light">
                           <tr>
@@ -284,6 +285,7 @@ class Note extends React.Component {
                           </tr>
                         </tbody>
                       </table>
+                      
                     </div>
                   </div>
                 </div>
